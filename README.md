@@ -10,4 +10,4 @@ All of the main projects created prior March 2018 have been removed from GitHub 
 If there is outstanding balance they will be required to pay off the balance or make other arrangements to recieve any additional deliverables. This includes any support on theses older projects since all contractual agreements have been completed.
 
 ### Notice Nov 2017:
-Many of the main projects will be housed here on Github rather than the in house server do to my need for remote access and the IT Security Rules. January and Febuary I will be on site and we will migrate all the projects back to the in house server.
+Many of the main projects will be housed here on Github rather than the in house server since I need remote access and the IT Security Rules do not allow me access from outside the network. January and Febuary I will be on site and we will migrate all the projects back to the in house server.
