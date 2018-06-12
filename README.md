@@ -1,6 +1,9 @@
 # hamberfim.github.io
 
-### Notice June 2018:
+### Notice June 12 2018:
+Having issues at Gitlab again today. Been unable to access projects for several hours.
+
+### Notice June 10 2018:
 All new projects are migrating to GitLab. See me directly if you want access. Otherwise everything else is on the in house server.
 After testing we may use the CI/CD GitLab for self hosting.
 
