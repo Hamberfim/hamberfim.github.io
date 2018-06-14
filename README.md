@@ -4,8 +4,7 @@
 Having issues at Gitlab again today. Been unable to access projects for several hours.
 
 ### Notice June 10 2018:
-All new projects are migrating to GitLab. See me directly if you want access. Otherwise everything else is on the in house server.
-After testing we may use the CI/CD GitLab for self hosting.
+Began testing on GitLab. See me directly if you want access. Otherwise everything else is on the in house server.
 
 ### Notice March 2018:
 All of the main projects created prior March 2018 have been removed from GitHub and either placed on the in house server or are remove since they have been delivered. If you need access to the archives we had here you will need to contact me directly.
