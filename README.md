@@ -1,6 +1,7 @@
 # hamberfim.github.io
 
-Sample Work:
+### Sample Work:
+
 [html-css Prototype Proposal](https://hamberfim.github.io/Kate_Isaacs/)
 
 [Graphic design, mobile design & information architecture](https://hamberfim.github.io/Alcune_Opere_Grafiche/)
