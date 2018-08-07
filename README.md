@@ -20,6 +20,8 @@
 
 [CSS Grid Experiment-old school side nav](https://hamberfim.github.io/Simple_Web_Grid_Layouts/simple_sidebar/index_sbNav.html)
 
+### Notice August 6 2018
+All project management is now done exclusively through Trello.
 
 ### Notice July 9 2018
 Out of necessity projects are going to be spread across Github, Gitlab and Bitbucket.
