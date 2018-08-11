@@ -1,6 +1,6 @@
 # hamberfim.github.io
 
-### Sample Work:
+### Abilità di gioco:
 
 [html-css Prototype Proposal](https://hamberfim.github.io/Kate_Isaacs/)
 
