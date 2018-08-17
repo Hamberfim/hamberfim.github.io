@@ -22,6 +22,9 @@
 
 [CSS Grid Experiment-old school side nav](https://hamberfim.github.io/Simple_Web_Grid_Layouts/simple_sidebar/index_sbNav.html)
 
+### Notice August 17 2018
+All private GitHub projects will be archives and removed from GitHub.
+
 ### Notice August 6 2018
 All project management is now done exclusively through Trello.
 
