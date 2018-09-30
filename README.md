@@ -6,8 +6,6 @@
 
 [Graphic design, mobile design & information architecture](https://hamberfim.github.io/Alcune_Opere_Grafiche/)
 
-[Adobe Portfolio](https://adhamlin.myportfolio.com/)
-
 [Vue.js/Vuetify.js testing](https://hamberfim.gitlab.io/vuetify_alpha/)
 
 [Github Webpage](https://hamberfim.github.io/)
