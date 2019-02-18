@@ -1,6 +1,6 @@
 # hamberfim.github.io
 
-### Some outdated samples:
+### Sempre imparando, Sempre giocando:
 
 [html-css Prototype Proposal](https://hamberfim.github.io/Kate_Isaacs/)
 
