@@ -26,7 +26,7 @@ googleplus_username: +jekyll
 # about_title: About Me (Use this to override about section title)
 about_profile_image: /arch_old_deployment/images/MeKandinsky.png
 about_content: | # this will include new lines to allow paragraphs
-  I create and translate ux/ui concepts & static designs into responsive - dynamically functional websites using HTML, CSS, Python & other scripting languages, utilizing modern frameworks and content management systems.
+  I create and translate ux/ui concepts & static designs into responsive - dynamically functional websites using HTML, CSS, Python & other scripting languages. I'm intersted in building my skills as a full stack - backend developer with a focus in Python, SQL and Rest API's.
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
