@@ -1,5 +1,6 @@
 # hamberfim.github.io
 ### Samples - Sempre imparando, Sempre giocando:
+Samples - Always Learning, Alway Playing
 
 [html-css Prototype Proposal](https://hamberfim.github.io/Kate_Isaacs/)
 
@@ -9,7 +10,7 @@
 
 [Github Webpage](https://hamberfim.github.io/)
 
-<br/><br/>
+<br/><br/><br/><br/>
 Testing:
 
 [CSS Grid Experiment-Basic Hero](https://hamberfim.github.io/Simple_Web_Grid_Layouts/simple_hero/simple_hero.html)
