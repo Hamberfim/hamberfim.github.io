@@ -22,6 +22,18 @@ a {
     text-align: center;
 }
 
+.sect_force_left {
+    text-align: left;
+}
+
+.strong_plus {
+    font-size: 1.8rem;
+}
+
+.em_smaller {
+    font-size: 1.3rem;
+}
+
 /* lower section b/c area section heading text, paragraph and button spacing */
 
 .section-heading,
@@ -38,8 +50,8 @@ a {
 
 .showcase-img {
     position: relative;
-    max-width: 80%;
-    margin: 1rem auto -12rem;
+    max-width: 85%;
+    margin: 1rem auto auto 1rem;
 }
 
 /* lower background image of Section-A */
@@ -85,7 +97,7 @@ a {
     .showcase-img {
         position: relative;
         max-width: 100%;
-        margin: 1rem auto -15rem;
+        margin: margin: 1rem auto auto 1rem;
     }
 
     .box {
