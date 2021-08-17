@@ -84,11 +84,6 @@ a {
     margin-bottom: 4rem;
 }
 
-.allLeft {
-    text-align: left;
-}
-
-
 /* push showcase heading text at top down beside the image & resize image when on a larger screen */
 
 @media(min-width:750px) {
